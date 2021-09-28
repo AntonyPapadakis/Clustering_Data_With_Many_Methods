@@ -6,24 +6,24 @@ Each of the implemented algorithms includes 3 different steps. Initialization, A
 
 We provide hereby all the different combinations for the algorithmic implementation of each step:
 
-##Initialization
+## Initialization
 
 1. Random selection of k points (simplest)
 2. K-means++
 
-##Assignment
+## Assignment
 
 1. Lloyd’s assignment
 2. Assignment by Range search with LSH (εργασία 1)
 3. Assignment by Range search with Hypercube (εργασία 1)
 
-##Update
+## Update
 1. K-means
 2. Partitioning Around Medoids (PAM) improved like Lloyd’s
 
 In total we get 12 combinations.
 
-##Run details
+## Run details
 
 A makefile is included for compilation purposes and the program can be run by executing
 
