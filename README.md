@@ -39,3 +39,4 @@ The output file will contain for each cluster the indexes of the data belonging 
 
 Also a silhouette implementation is included for evaluation purposes.
 
+Implementation was concluded in early 2019
