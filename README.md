@@ -41,16 +41,16 @@ Also a silhouette implementation is included for evaluation purposes.
 
 Implementation was concluded in early 2019
 
-## Details
+## Details of methology
 
 ### For Regular Data
-  1 For every point, compute distance to every centroid.
-  2 Return (exact) nearest centroid.
+  1. For every point, compute distance to every centroid.
+  2. Return (exact) nearest centroid.
 
 ### For Big Data
-  1 Index k centroids into data-structure, e.g. LSH hashtables or Hypercube.
-  2 For every non-centroid point, run ANN to find nearest centroid.
-  3 Return (approximate) nearest centroid.
+  1. Index k centroids into data-structure, e.g. LSH hashtables or Hypercube.
+  2. For every non-centroid point, run ANN to find nearest centroid.
+  3. Return (approximate) nearest centroid.
 
 
 
