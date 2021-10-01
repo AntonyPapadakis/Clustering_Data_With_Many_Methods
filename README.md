@@ -1,5 +1,5 @@
 # Clustering Data With Many Methods Cplusplus
-This project was developed in the scope of the undergraduate course algorithmic problem solving of the NKUA. 
+This project was developed in the scope of the undergraduate course algorithmic problem solving of the NKUA(2018-2019). 
 It includes 12 different implementations of clustering techniques from simple K-means to LSH/Hypercube clustering.
 
 Each of the implemented algorithms includes 3 different steps. Initialization, Assignment and Update.
