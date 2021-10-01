@@ -14,8 +14,8 @@ We provide hereby all the different combinations for the algorithmic implementat
 ## Assignment
 
 1. Lloyd’s assignment
-2. Assignment by Range search with LSH (εργασία 1)
-3. Assignment by Range search with Hypercube (εργασία 1)
+2. Assignment by Range search with LSH 
+3. Assignment by Range search with Hypercube 
 
 ## Update
 1. K-means
